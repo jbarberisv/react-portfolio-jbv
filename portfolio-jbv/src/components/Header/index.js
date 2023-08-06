@@ -11,7 +11,7 @@ export default function Header() {
           <div>
             <ul>
               <li><a href="#about">About</a></li>
-              <li><a href="#proyects">Projects</a></li>
+              <li><a href="/projects">Projects</a></li>
               <li><a href="#contact-me">Contact Me</a></li>
             </ul>
           </div>
@@ -25,3 +25,4 @@ export default function Header() {
 
   )
 }
+

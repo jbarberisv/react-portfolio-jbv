@@ -14,7 +14,7 @@ It includes a form with email validation and alerts. A download button for resum
 
 ## Screenshot
 
-![alt screenshot](https://github.com/jbarberisv/react-portfolio-jbv/blob/main/portfolio-jbv/public/assest/images/screenme.png?raw=true)
+![alt screenshot](https://github.com/jbarberisv/react-portfolio-jbv/blob/main/public/assest/images/screenme.png?raw=true)
 
 
 ## Features and Technology

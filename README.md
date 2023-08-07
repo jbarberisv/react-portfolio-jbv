@@ -25,7 +25,7 @@ It includes a form with email validation and alerts. A download button for resum
 - Commented code
 
 ## Deployment
-[Click Here]() to view the final result.
+[Click Here](https://react-portfolio-jbv-6eeaa96622f3.herokuapp.com) to view the final result.
 
 
 ## Credits

@@ -117,7 +117,7 @@ article {
 }
 
 article img {
-    opacity: 0.8;
+    opacity: 0.5;
     width: 100% 
 }
 
@@ -136,6 +136,13 @@ article .image {
     bottom: 10px;
     left: 10px;
     color: #F8F4EA;
+}
+
+.description a{
+    bottom: 10px;
+    left: 10px;
+    color: #F8F4EA;
+    margin-right: 5px;
 }
 
 #contact-me ul {

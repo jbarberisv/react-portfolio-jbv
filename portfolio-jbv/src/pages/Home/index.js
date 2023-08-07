@@ -20,11 +20,18 @@ export default function HomePage() {
   ));
 
   return (
+    <>
+    <div className='avatar'> 
+      <img src='https://avatars.githubusercontent.com/u/124635316?v=4' alt="photo" />
+    </div>
     <section id="about" className="content-section">
+
       <div className="title">
         <h2>About me</h2>
       </div>
       <div className="menu-content">{paragraphs}</div>
     </section>
+    </>
+
   );
 }

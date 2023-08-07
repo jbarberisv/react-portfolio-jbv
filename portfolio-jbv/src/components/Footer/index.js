@@ -4,11 +4,11 @@ export default function Footer() {
 
     return (
       <>
-        <section id="contact-me" class="content-section">
-            <div class="title">
+        <section id="contact-me" className="content-section">
+            <div className="title">
                 <h2>Contact Me</h2>
             </div>
-            <div class="menu-content">
+            <div className="menu-content">
                 <ul>
                     <li>
                         +1 (239) 250 4677

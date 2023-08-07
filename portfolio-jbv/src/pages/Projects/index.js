@@ -45,19 +45,19 @@ export default function HomePage() {
  
 
   return (
-    <section id="proyects" class="content-section">
-        <div class="title">
+    <section id="proyects" className="content-section">
+        <div className="title">
             <h2>
                 Proyects
             </h2>
 
         </div>
-        <div class="menu-content">
+        <div className="menu-content">
             { projects.map( project => (
                 <article>
-                    <div class="image">
+                    <div className="image">
                         <img src={project.href} alt="image about project" />
-                        <div class="description">
+                        <div className="description">
                             <h3>{project.name}</h3>
                             <p>{project.description}</p>
                             <a href={project.github}>Github -</a>

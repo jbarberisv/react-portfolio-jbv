@@ -10,14 +10,14 @@ export default function Header() {
           </div>
           <div>
             <ul>
-              <il><a href="#home">Home</a></il>
-              <li><a href="#about">About</a></li>
+              <li><a href="/">About</a></li>
               <li><a href="/projects">Projects</a></li>
-              <li><a href="#contact-me">Contact Me</a></li>
+              <li><a href="/contact-me">Contact Me</a></li>
+              <li><a href="resume">Resume</a></li>
             </ul>
           </div>
         </nav>
-        <section class="hero">
+        <section className="hero">
           <div>
             <h2>Developer</h2>
           </div>
